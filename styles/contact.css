@@ -10,7 +10,7 @@
 
 body{
     background: #f7f7f7;
-    overflow: hidden;
+    overflow-x: hidden;
     /*background-image: url("Mac\ Wallpaper.png");
     background-repeat: no-repeat;
     background-position: fixed;
